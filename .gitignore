@@ -1,3 +1,6 @@
 *.iml
 .idea/
 target/
+
+data/twitter_rv.net
+data/twitter_rv.zip
